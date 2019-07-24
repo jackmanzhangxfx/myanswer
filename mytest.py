@@ -3,7 +3,7 @@
 
 
 import unittest
-from other.myBig import Big
+from myBig import Big
 
 class TestBig(unittest.TestCase):
     def setUp(self):
